@@ -1,0 +1,189 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.topnav{
+  background-color: rgb(27, 73, 158); 
+}
+.topnav a{
+    color: white;
+    text-decoration: none;
+}
+/*--header section--*/
+header{
+    height: 70px; 
+}
+img{
+    height: 40px;
+    width: 135px;
+ }
+ .navbar-nav a{
+     color: black;
+ }
+ .navbar-collapse{
+     background-color: white;
+     z-index: 1;
+     padding: 10px 20px;
+     font-size: 15px;
+     font-weight: 600;
+ }
+ .bi-bar-list{
+     font-size: 30px;
+ }
+/*hero section*/
+.carousel-item{
+    height: 85vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.carousel-item h1{
+    margin-top: 100px;
+    color:white;
+    font-weight: bold;
+}
+.carousel-item p{
+    color: white;
+    margin: 20px;
+}
+.carousel-item a{
+   background-color: rgb(62, 62, 182);
+   box-sizing: border-box;
+   border-radius: 5px;
+   color: white;
+   padding: 10px 30px;
+   text-decoration: none;
+}
+.carousel-control-prev{
+  margin-left: -60px;
+  margin-top: -50px;
+}
+.carousel-control-next{
+    margin-right: -60px;
+    margin-top: -50px;
+  }
+  /* about us*/
+  .about{
+      margin: 40px;
+  }
+.about-img{
+   width: 90%;
+    height:auto ;
+    padding: 20px 0;  
+}
+.about p{
+  text-align: justify;
+  padding: 20px 20px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.5;
+  
+}
+.about h2{
+    color: rgb(95, 98, 128);
+   margin-top: 50px;
+   justify-content: center;
+}
+/* about section2*/
+.about-section-2{
+    padding: 20px;
+}
+.about-section-2 h2{
+   margin-top: 50px;
+    padding-bottom: 0;
+    color: #5c768d;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.about-section-2 p{
+   text-align: justify;
+   font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    font-style: italic;
+    color: #5c768d;
+}
+.founder-img{
+    width: 65%;
+    height: auto;
+    padding-left: 20px;
+}
+/* service section*/
+.industries-title{
+    text-align: center;
+}
+.industrial-card{
+    display: flex;
+    flex-direction: column;
+    border: solid 1px gray;
+    text-align: center;
+}
+.icons-box{
+   font-size: 20px;
+   background-color: whitesmoke;
+   
+}
+/*contact us*/
+.section-title h2{
+    text-align: center;
+    padding: 30px;
+}
+.contact col{
+   background-color: whitesmoke;
+}
+.info-box{
+    box-shadow: rgb(214 215 216 / 60%);
+    background-color: whitesmoke;
+    text-align: center  ;
+}
+/* footer section*/
+.footer{
+    background-color: #5c768d;
+    padding: 60px 0 30px 0;
+    color: white;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul i{
+    font-size: 12px;
+    color: #9eccf4;
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
